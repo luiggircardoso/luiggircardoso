@@ -1,1 +1,1 @@
-![luiggircardoso's GitHub Banner](https://raw.githubusercontent.com/luiggircardoso/luiggircardoso/main/banner.png)
+![luiggircardoso's GitHub Banner](luiggircardoso-readme-banner.png)
